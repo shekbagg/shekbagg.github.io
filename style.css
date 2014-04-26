@@ -53,16 +53,16 @@ h4
 }
 
 #nav li a {
-	color: #ffffff;
+	color: #2981d4;
 	display: block;
 	padding: 8px 57px;
 	text-decoration: none;
-	background-color: #3498db;
+	background-color: #f4f4f4;
 	border-left: 2px solid #ffffff;
 }
 #nav li a:hover {
 	color: #ffffff;
-	background-color: #27ae60; }
+	background-color: #2981d4; }
 
 
 .handle {
