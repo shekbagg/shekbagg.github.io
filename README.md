@@ -1,8 +1,8 @@
-shekbagg.github.io
+Shekhar's Personal Website
 ==================
 
-Personal Page
+Bio and project info listing.
 
-Personal website. Links back from http://www.shekbagg.com
+Links to http://www.shekbagg.com
 
 
